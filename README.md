@@ -1,6 +1,2 @@
-# 2018_study
-2018 Notes
-
-nihao fsdfs
-
-hh
+# vim使用
+test
